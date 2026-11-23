@@ -25,3 +25,10 @@ A responsive, dark-themed personal portfolio built with HTML, CSS and JavaScript
 - `style.css` — responsive styling
 - `script.js` — mobile navigation
 - `assets/` — place images here
+
+
+## Updated version
+- Added the original profile photo at `assets/profile-photo.jpeg`.
+- Added smooth scrolling and scroll-reveal animations.
+- To replace the photo later, replace `assets/profile-photo.jpeg` with another image using the same filename.
+- Upload the contents of this folder to the root of your GitHub Pages repository.
